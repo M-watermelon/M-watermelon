@@ -7,18 +7,20 @@
 - ### I’m currently learning ...
 
     - How to use github
-    - More CTF skills like binary exploitation and using wireshark
+    - More CTF skills:
+        - binary exploitation 
+        - using wireshark
+        - solving forensics challenges that have audio files (using things like audacity and sonic visualizer)   
 
 - ### I’m looking to collaborate on ...
-    - Nothing yet!
-- ### I’m looking for help with ...
-    - Nothing yet!
+    - Nothing yet! Someday I will have a public project though
 
 - ### How to reach me: ...
+    - I'll set it up on my website soon
 
-- ### Fun fact: Phalaenopsis orchids can clone themselves!
+- ### Fun fact: 
 
-### What I can do: (skills)
+- ### What I can do: (skills)
 - Programming
     - General python
     - General HTML
