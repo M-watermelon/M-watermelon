@@ -16,16 +16,21 @@
     - Nothing yet! Someday I will have a public project though
 
 - ### How to reach me: ...
-    - I'll set it up on my website soon
+    - I'll set it up on my website soon enough
 
-- ### Fun fact: 
+- ### Fun fact: I like rhythm games. 
 
 - ### What I can do: (skills)
+- General
+    - basic linux terminal skills
+    - lots of experience working with a raspberry pi
 - Programming
-    - General python
-    - General HTML
+    - Python
+    - HTML/CSS
  - Cybersecurity/CTF
     - Forensics
     - Use tools such as stegsolve, exiftool, binwalk, etc 
+    
+    
     
    ...To be continued...
