@@ -3,6 +3,7 @@
 - ### I’m currently working on ...
 
     - A website using Jekyll to document my projects, including the ones here on github.
+    - PicoCTF preparation!!!
 
 - ### I’m currently learning ...
 
@@ -27,6 +28,7 @@
 - Programming
     - Python
     - HTML/CSS
+    - Javascript
  - Cybersecurity/CTF
     - Forensics
     - Use tools such as stegsolve, exiftool, binwalk, etc 
