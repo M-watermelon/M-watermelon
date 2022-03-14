@@ -10,6 +10,7 @@
     - How to use github
     - More CTF skills:
         - binary exploitation 
+        - solving RSA problems
         - using wireshark
         - solving forensics challenges that have audio files (using things like audacity and sonic visualizer)   
 
@@ -31,7 +32,8 @@
     - Javascript
  - Cybersecurity/CTF
     - Forensics
-    - Use tools such as stegsolve, exiftool, binwalk, etc 
+    - Use tools such as stegsolve, exiftool, binwalk, etc
+    - Beginner's Cryptography 
     
     
     
