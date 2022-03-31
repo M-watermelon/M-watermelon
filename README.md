@@ -34,9 +34,9 @@
     - Forensics
     - Use tools such as stegsolve, exiftool, binwalk, etc
     - Cryptography
-        -RSA
-        -Salts
-        -hashes
+        - RSA
+        - Salts
+        - Hashes
     
     
    ...To be continued...
