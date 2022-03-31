@@ -35,7 +35,8 @@
     - Use tools such as stegsolve, exiftool, binwalk, etc
     - Cryptography
         -RSA
-        -Salts and hashes
+        -Salts
+        -hashes
     
     
    ...To be continued...
