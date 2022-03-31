@@ -32,7 +32,7 @@
     - Javascript
  - Cybersecurity/CTF
     - Forensics
-    - Use tools such as stegsolve, exiftool, binwalk, etc
+        - Using tools such as stegsolve, exiftool, binwalk, sleuthkit, etc
     - Cryptography
         - RSA
         - Salts
