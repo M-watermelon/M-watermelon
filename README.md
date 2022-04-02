@@ -1,5 +1,5 @@
 ### Hi 
-
+![M-watermelon's github stats](https://github-readme-stats.vercel.app/api?username=M-watermelon&show_icons=true&theme=radical)
 - ### I’m currently working on ...
 
     - A website using Jekyll to document my projects, including the ones here on github.
