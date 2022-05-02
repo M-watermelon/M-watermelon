@@ -1,6 +1,4 @@
-### Hi 
-
-[I have website that I use to document my projects, including the ones here on github.](https://m-watermelon.github.io/WatermelonBlog/)
+### Hello, [I have website that I use to document my projects, including the ones here on github.](https://m-watermelon.github.io/WatermelonBlog/)
 
 ![M-watermelon's github stats](https://github-readme-stats.vercel.app/api?username=M-watermelon&show_icons=true&theme=radical)
 - ### I’m currently working on ...
