@@ -4,7 +4,9 @@
 - ### I’m currently working on ...
 
     - Making a browser game
+    - SQL injection
     - Improving my website
+    - Making blog posts
     - PicoCTF
     - Cyberstart
     - Making a handy CTF guide (for keeping track of what I learn and as a guide for others)
@@ -28,8 +30,7 @@
     - I am planning to make a cybersecurity wiki that will be easier to use for all levels of expertise, to help with CTFs.
 
 - ### How to reach me: ...
-    - Its on my website
-
+    - [Check it out my website! ](https://m-watermelon.github.io/WatermelonBlog/)
 - ### What I can do: (skills)
 - General
     - Basic linux terminal skills
