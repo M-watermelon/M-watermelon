@@ -41,8 +41,8 @@
         - Using tools such as stegsolve, wireshark, steghide, exiftool, binwalk, sleuthkit, etc
     - Cryptography
         - RSA
-        - Salts
-        - Hashes
+        - Salts and Hashes
+        - General knowledge of ciphers
     - Some web exploitation
  
     
