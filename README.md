@@ -10,14 +10,10 @@
     - Making a handy CTF guide (for keeping track of what I learn as well as a guide for others)
 
 - ### I’m currently learning ...
+    - Bash
     - Networking
     - More CTF skills:
-        - Binary exploitation
-        - Reverse engineering
-            - GDB   
-        - Cryptography
-        - Diffie-Hellman key exchange
-        - Wireshark
+        - Wireshark (uses of different filters, following streams)
         - Web exploitation 
             - SQL injection
             - command injection
