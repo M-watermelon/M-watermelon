@@ -5,11 +5,11 @@ I also have a LinkedIn profile at [https://www.linkedin.com/in/maria-matevosyan-
 
 ![M-watermelon's github stats](https://github-readme-stats.vercel.app/api?username=M-watermelon&show_icons=true&theme=radical)
 - ### I’m currently working on ...
-    - The things I'm learning
     - Studying cybersecurity
     - Improving my website / making blog posts
     - PicoCTF and Cyberstart prep
     - Making a handy CTF guide (for keeping track of what I learn as well as a guide for others)
+    - The stuff here ↓
 
 - ### I’m currently learning ...
     - Bash and linux
