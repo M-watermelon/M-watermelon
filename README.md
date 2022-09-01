@@ -5,6 +5,7 @@ I also have a LinkedIn profile at [https://www.linkedin.com/in/maria-matevosyan-
 
 ![M-watermelon's github stats](https://github-readme-stats.vercel.app/api?username=M-watermelon&show_icons=true&theme=radical)
 ### I’m currently working on ...
+
     - Studying cybersecurity
     - Improving my website / making blog posts
     - PicoCTF and Cyberstart prep
@@ -28,7 +29,7 @@ I also have a LinkedIn profile at [https://www.linkedin.com/in/maria-matevosyan-
     - A cybersecurity wiki that will be easier to use for all levels of expertise, to help with CTFs (one day)
 
 ### How to reach me: ...
-    - [Check it out my website and about me page! ](https://m-watermelon.github.io/WatermelonBlog/)
+  [Check it out my website and about me page! ](https://m-watermelon.github.io/WatermelonBlog/)
     
 ### What I can do: (skills)
 
