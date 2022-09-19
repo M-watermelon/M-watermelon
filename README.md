@@ -23,8 +23,8 @@ I also have a LinkedIn profile at [https://www.linkedin.com/in/maria-matevosyan-
        - Advanced usage of ssh
 
 ### I’m looking to collaborate on ...
-    - Uranium Cat - a chat site hosted on github pages (that isn't blocked by my school's wifi)
-    - A cybersecurity wiki that will be easier to use for all levels of expertise, to help with CTFs (one day)
+   - Uranium Cat - a chat site hosted on github pages (that isn't blocked by my school's wifi)
+   - A cybersecurity wiki that will be easier to use for all levels of expertise, to help with CTFs (one day)
 
 ### How to reach me: ...
   [Check it out my website and about me page! ](https://m-watermelon.github.io/WatermelonBlog/)
@@ -34,6 +34,7 @@ I also have a LinkedIn profile at [https://www.linkedin.com/in/maria-matevosyan-
 General
    - General knowledge of ubuntu linux / debian (file systems, priveledges, linux trivia, applications, etc)
    - General computer skills (installing dual boot on chromebooks, working with raspberry pis, remote desktops, etc)
+   - Knowledge of Markdown (including github flavor)
     
 Programming
    - BASH 
