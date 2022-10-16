@@ -33,7 +33,7 @@
 General
    - General knowledge of ubuntu linux / debian (file systems, priveledges, linux trivia, applications, etc)
    - General computer skills (installing dual boot on chromebooks, working with raspberry pis, remote desktops, etc)
-   - Background knowledge of different programming languages (and their pros/cos, purposes) and OS'(windows, temple os) and Linux distros (ubuntu, kali, mint, redhat, fedora, tails, pop, arch, gentoo)
+   - Background knowledge of different programming languages (and their pros/cos, purposes) and OS' and Linux distros (ubuntu, kali, mint, redhat, fedora, tails, pop, arch, gentoo)
    - Knowledge of Markdown (including github flavor)
     
 Programming
