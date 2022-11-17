@@ -12,14 +12,12 @@
    - The stuff here ↓
 
 ### I’m currently learning ...
+   - All sorts of linux things (Ranging from lutris and steam proton to kali linux tools)
    - Networking
-   - PHP and sockets for chat applications
+
     
 ### I want to get to in the future:
-   - More CTF skills:
-       - Wireshark (uses of different filters, following streams)
-       - Web exploitation (SQL injection)
-       - Advanced usage of ssh
+   - Using libraries and stacks for web development
 
 ### I’m looking to collaborate on ...
    - Uranium Cat - a chat site hosted on github pages (that isn't blocked by my school's wifi)
@@ -33,8 +31,9 @@
 General
    - General knowledge of ubuntu linux / debian (file systems, priveledges, linux trivia, applications, etc)
    - General computer skills (installing dual boot on chromebooks, working with raspberry pis, remote desktops, etc)
+   - Grub and boot repair (why booting can fail, current issues, boot repair tools, live usbs, grub rescue, gparted, file formatting)
    - Background knowledge of different programming languages (and their pros/cos, purposes) and OS' and Linux distros (ubuntu, kali, mint, redhat, fedora, tails, pop, arch, gentoo)
-   - Knowledge of Markdown (including github flavor)
+   - Basic knowledge of Markdown (including github flavor)
     
 Programming
    - BASH 
@@ -45,17 +44,21 @@ Programming
  Cybersecurity/CTF
    - General knowledge
       - Background knowledge of different security threats, attacks, opsec, TOR, etc 
+      - Understanding of networking and network packets (abstraction, layers of the internet, internet protocols)
    - Forensics
        - Using tools such as stegsolve, wireshark, steghide, exiftool, binwalk, sleuthkit, etc
    - Cryptography
        - RSA
        - Salts and Hashes
        - General knowledge of encryption methods
-   - Some web exploitation
+       - Encrypted disks
+    
+   - Some web exploitation (Basic SQL injection, javascript injection)
  
  ### CTF (Capture The Flag) competition achievements:
  - Fourth Place in PicoCTF for US Middle Schools
  - NCSF Scholarship Finalist (Qualified for it in both PicoCTF 2022 and Cyberstart 2022)(Viewable [here](https://www.nationalcyberscholarship.org/winners-2022) under IL finalists)
  - Silver and Bronze award winner in Cyberstart 2022
+ - Currently leading my school's cybersecurity team
  
    ...To be continued...
