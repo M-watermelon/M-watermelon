@@ -5,9 +5,9 @@
 ![M-watermelon's github stats](https://github-readme-stats.vercel.app/api?username=M-watermelon&show_icons=true&theme=radical)
 ### I’m currently working on ...
 
+   - Programming and CTF competitions (Advent of Code and Cyberstart currently, prepping for PicoCTF)
    - Studying cybersecurity
    - Improving my website / making blog posts
-   - PicoCTF and Cyberstart prep
    - Making a handy CTF guide (for keeping track of what I learn as well as a guide for others)
    - The stuff here ↓
 
@@ -65,7 +65,8 @@ Programming
    - Minimal experience with binary exploitation
  
  ### CTF (Capture The Flag) competition achievements:
- - Fourth Place in PicoCTF for US Middle Schools
+ - Fourth Place in PicoCTF 2021 for US Middle Schools
+ - Participant in PicoCTF 2022 and Cyberstart 2022
  - NCSF Scholarship Finalist (Qualified for it in both PicoCTF 2022 and Cyberstart 2022)(Viewable [here](https://www.nationalcyberscholarship.org/winners-2022) under IL finalists)
  - Silver and Bronze award winner in Cyberstart 2022
  - Participant of beta test Magnetic Rock CTF event on ranges.io (invite only) 2022
