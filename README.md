@@ -5,6 +5,7 @@
 ![M-watermelon's github stats](https://github-readme-stats.vercel.app/api?username=M-watermelon&show_icons=true&theme=radical)
 ### I’m currently working on ...
 
+   - DWM configs
    - Programming and CTF competitions (Advent of Code and Cyberstart currently, prepping for PicoCTF)
    - Studying cybersecurity
    - Improving my website / making blog posts
