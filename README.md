@@ -68,7 +68,7 @@ Programming
  ### CTF (Capture The Flag) competition achievements:
  - Fourth Place in PicoCTF 2021 for US Middle Schools
  - Participant in PicoCTF 2022 and Cyberstart 2022
- - NCSF Scholarship Finalist (Qualified for it in both PicoCTF 2022 and Cyberstart 2022)(Viewable [here](https://www.nationalcyberscholarship.org/winners-2022) under IL finalists)
+ - NCSF Scholarship Finalist (Qualified for it in both PicoCTF 2022 and Cyberstart 2022)(Viewable [here](https://www.nationalcyberscholarship.org/winners-2022) under finalists)
  - Silver and Bronze award winner in Cyberstart 2022
  - Participant of beta test Magnetic Rock CTF event on ranges.io (invite only) 2022
  - Currently leading my school's CTF team
