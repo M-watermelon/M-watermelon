@@ -46,7 +46,7 @@ Programming
  Cybersecurity/CTF/Linux
    - General knowledge
       - Background knowledge of different security threats, attacks, etc 
-      - Basic knowledge on privacy and how to improve it (ie reccomended browsers, extensions, whonix, tails, and more)
+      - Basic knowledge on privacy and how to improve it (ie reccomended browsers, extensions, operating systems, and more)
    - Networking 
       - Network configuration (things like iwctl, ip, ifconfig, macchanger)
       - Using netcat, ssh, wireshark
