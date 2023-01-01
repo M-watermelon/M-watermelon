@@ -45,7 +45,7 @@ Programming
     
  Cybersecurity/CTF/Linux
    - General knowledge
-      - Background knowledge of different security threats, attacks, opsec, TOR, etc 
+      - Background knowledge of different security threats, attacks, etc 
       - Basic knowledge on privacy and how to improve it (ie reccomended browsers, extensions, whonix, tails, and more)
    - Networking 
       - Network configuration (things like iwctl, ip, ifconfig, macchanger)
