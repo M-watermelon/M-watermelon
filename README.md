@@ -19,7 +19,7 @@
     
 ### I want to get to in the future:
    - Automating jobs like data entry using python
-   - Using libraries and stacks for web development
+   - Backend web development
    - Learning more about hardware exploits (specifically nintendo devices) and general nintendo homebrew
 
 ### I’m looking to collaborate on ...
