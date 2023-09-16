@@ -6,7 +6,6 @@
 
    - hyprland configs
    - Programming and CTF competitions (Advent of Code and Cyberstart currently, prepping for PicoCTF)
-   - Studying cybersecurity & SANS Foundations
    - Running a cybersecurity team in a comp sci club
    - Making a handy CTF guide (for keeping track of what I learn as well as a guide for others)
    - Learning C and Java
@@ -26,7 +25,7 @@
 ### What I can do: (skills)
 
 General
-   -
+   - GIAC Foundational Cybersecurity Technologies (GFACT) Certified
    - General knowledge of linux (file systems, priveledges, linux trivia, applications, distros, etc)
    - General computer skills (installing dual boot on chromebooks, working with raspberry pis, remote desktops, etc)
    - Grub and boot repair (boot failures, current issues, boot repair and boot repair tools, live usbs, grub rescue, gparted, file formatting)
@@ -48,5 +47,6 @@ Programming
  - Participant in Cyberstart 2022-2023
  - Winner of the NCSF Scholarship  Viewable [here](https://www.nationalcyberscholarship.org/winners-2023) 
  - Currently leading my school's CTF team
+ - Completed SANS Foundations course, provided by the NCSF scholarship
  
    ...To be continued...
